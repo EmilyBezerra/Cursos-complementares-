@@ -21,7 +21,7 @@ Cada pasta contém:
   
 ## Uso
 
-1. **Clone o Repositório**: git@github.com:EmilyBezerra/Cursos-complementares-.git
+1. **Clone o Repositório**: `git clone git@github.com:EmilyBezerra/Cursos-complementares-.git`
 2. **Navegue até a Pasta do Curso**: Use `cd` para acessar a pasta do curso desejado.
 3. **Instale Dependências**: Execute `npm install` se houver dependências.
 4. **Execute o Código**: Siga as instruções nos arquivos README específicos de cada curso ou exercício.
