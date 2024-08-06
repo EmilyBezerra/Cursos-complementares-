@@ -30,8 +30,8 @@ Cada pasta contém:
 
 Se tiver dúvidas ou quiser discutir sobre os projetos, você pode me encontrar no LinkedIn ou enviar um e-mail.
 
-Linkedin: https://www.linkedin.com/in/emilybezerr
-e-mail: emily.bezerra9343@gmail.com
+LinkedIn: [https://www.linkedin.com/in/emilybezerr](https://www.linkedin.com/in/emilybezerr)  
+E-mail: [emily.bezerra9343@gmail.com](mailto:emily.bezerra9343@gmail.com)
 
 Obrigado por visitar meu portfólio! Espero que este espaço seja útil para acompanhar meu progresso e demonstrar meu desenvolvimento ao longo dos cursos.
 
