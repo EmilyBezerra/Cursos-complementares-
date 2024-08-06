@@ -2,6 +2,8 @@
 
 Bem-vindo ao meu repositório de portfólio de aprendizado e desenvolvimento! Este repositório é dedicado a documentar e armazenar o código e os projetos que desenvolvo ao longo dos cursos que estou fazendo.
 
+- **EM FORMATAÇÃO**.
+
 ## Objetivo
 
 Registrar o progresso e evolução das minhas habilidades técnicas.
