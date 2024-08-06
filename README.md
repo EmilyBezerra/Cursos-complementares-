@@ -4,11 +4,7 @@ Bem-vindo ao meu repositório de portfólio de aprendizado e desenvolvimento! Es
 
 ## Objetivo
 
-Este repositório serve como um portfólio pessoal para exibir e registrar o progresso e evolução das minhas habilidades técnicas. Aqui, você encontrará:
-
-- **Exercícios**: Projetos e tarefas práticas realizadas durante os cursos.
-- **Desafios**: Projetos maiores e desafios complexos desenvolvidos para consolidar o aprendizado.
-- **Notas e Observações**: Comentários e aprendizados sobre as tecnologias e conceitos abordados.
+Registrar o progresso e evolução das minhas habilidades técnicas.
 
 ## Estrutura do Repositório
 
@@ -18,8 +14,11 @@ A estrutura geral do repositório é a seguinte:
 - **Curso Y**: Código e projetos do Curso Y.
 - **Curso Z**: Código e projetos do Curso Z.
 
-Cada pasta contém os exercícios e desafios relacionados ao respectivo curso.
+Cada pasta contém: 
 
+- **Exercícios**: Projetos e tarefas práticas realizadas durante os cursos.
+- **Desafios**: Projetos maiores e desafios complexos desenvolvidos para consolidar o aprendizado.
+  
 ## Uso
 
 1. **Clone o Repositório**: git@github.com:EmilyBezerra/Cursos-complementares-.git
